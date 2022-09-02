@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChristosKarathanasisac
+- 👋 Hi, I’m Christos Karathanasis
 - 👀 I’m interested in object oriented programming
 - 🌱 I’m currently learning C#
 - 📫 You can reach me on christoskarathanasisac@gmail.com
