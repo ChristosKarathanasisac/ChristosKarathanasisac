@@ -1,7 +1,6 @@
 # Christos Karathanasis 👋
 
 Software Engineer | .NET | Cloud | Distributed Systems
-📍 Thessaloniki, Greece
 
 ---
 
