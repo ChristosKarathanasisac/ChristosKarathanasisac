@@ -6,7 +6,7 @@ Software Engineer | .NET | Cloud | Distributed Systems
 
 ## 🚀 About
 
-Backend Software Engineer with **4+ years of experience** building **cloud-native .NET systems** in high-availability environments.
+Backend Software Engineer with **5+ years of experience** building **cloud-native .NET systems** in high-availability environments.
 
 Focused on:
 
