@@ -27,7 +27,7 @@ Azure Service Bus • Dapr
 
 ## 💼 Experience
 
-**Accenture (Piraeus Bank)**
+**Accenture**
 
 * Delivered monitoring & logging systems for production environments
 * Contributed to MFA refactoring and cloud-native migration
